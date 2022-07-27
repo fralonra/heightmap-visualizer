@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "author": "zoron (https://github.com/fralonra/)",
+  "license": "MIT",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@types/dat.gui": "^0.7.7",
+    "@types/three": "^0.141.0",
+    "dat.gui": "^0.7.9",
+    "ds-heightmap": "^1.2.4",
+    "parcel": "^2.6.2",
+    "three": "^0.142.0"
+  }
+}
