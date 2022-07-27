@@ -3,6 +3,11 @@
   "author": "zoron (https://github.com/fralonra/)",
   "license": "MIT",
   "source": "index.html",
+  "targets": {
+    "web": {
+      "publicUrl": "./"
+    }
+  },
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
